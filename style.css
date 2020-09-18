@@ -30,3 +30,8 @@ tr:nth-child(odd) {background-color: lightgreen}
 }
 div  span{background-color: white;}
 p span{background-color: white;}
+a:hover{background-color: lightgray}
+.highlight{
+color: red;
+font-weight: bold;
+}
